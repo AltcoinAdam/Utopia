@@ -1,11 +1,11 @@
 Utopia: Education of True Truth
 ======
 
-<a href=https://bitcointalk.org/index.php?topic=702380.0>eUtopium (UPM)</a> (<a href=https://www.twitter.com/utopium_>@Utopium_</a>) was designed by <a href=www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=https://twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
+<a href=https://bitcointalk.org/index.php?topic=702380.0>eUtopium (UPM)</a> (<a href=https://www.twitter.com/utopium_>@Utopium_</a>) was designed by <a href=https://www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=https://twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
 In this reality, this, is Proof-of-Utopia (PoU). 
 eUtopium was built solely upon the <a href=https://docs.google.com/document/d/12RzA2U30g46PY2B16OYDZFh3yJrQfhIjOJ6-wQu6C1w/edit?usp=sharing>Proof-of-Utopia (PoU) Thesis</a>,
 while exact specifications were designed in collaboration with 
-Quantum Holdings (<a href=https://twitter.com/qtmholdings>@QTMHoldings</a>) & the Erasmus School of History, Culture and Communication (<a href=https://eshcc.eur.nl>ESHCC</a>).
+Quantum Holdings (<a href=https://twitter.com/qtmholdings>@QTMHoldings</a>) & the Erasmus School of History, Culture and Communication (<a href=http://eshcc.eur.nl>ESHCC</a>).
 
 eUtopium is fully owned by Utopia.
 
