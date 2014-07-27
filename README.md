@@ -1,9 +1,9 @@
 Utopia: Education of True Truth
 ======
 
-eUtopium [UPM] (<a href=www.twitter.com/utopium_>@Utopium_</a>) was designed by <a href=www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
+<a href=https://bitcointalk.org/index.php?topic=702380.0>eUtopium (UPM)</a> (<a href=www.twitter.com/utopium_>@Utopium_</a>) was designed by <a href=www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
 In this reality, this, is Proof-of-Utopia (PoU). 
-eUtopium was built solely upon the Proof-of-Utopia (PoU) Thesis,
+eUtopium was built solely upon the <a href=https://docs.google.com/document/d/12RzA2U30g46PY2B16OYDZFh3yJrQfhIjOJ6-wQu6C1w/edit?usp=sharing>Proof-of-Utopia (PoU) Thesis</a>,
 while exact specifications were designed in collaboration with 
 Quantum Holdings (<a href=twitter.com/qtmholdings>@QTMHoldings</a>) & the Erasmus School of History, Culture and Communication (<a href=eshcc.eur.nl>ESHCC</a>).
 
