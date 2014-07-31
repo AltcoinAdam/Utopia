@@ -1,7 +1,7 @@
 Utopia: Education of True Truth
 ======
 
-<a href=https://bitcointalk.org/index.php?topic=702380.0>eUtopium (UPM)</a> (<a href=https://www.twitter.com/utopium_>@Utopium_</a>) was designed by <a href=https://www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=https://twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
+<a href=https://bitcointalk.org/index.php?topic=702380.0>eUtopium (UPM)</a> (<a href=https://www.twitter.com/eutopium>@eUtopium</a>) was designed by <a href=https://www.twitter.com/altcoinadam>@AltcoinAdam</a>, manifested by <a href=https://twitter.com/cryptokeymaker>@CryptoKeymaker</a>.
 In this reality, this, is Proof-of-Utopia (PoU). 
 eUtopium was built solely upon the <a href=https://docs.google.com/document/d/12RzA2U30g46PY2B16OYDZFh3yJrQfhIjOJ6-wQu6C1w/edit?usp=sharing>Proof-of-Utopia (PoU) Thesis</a>,
 while exact specifications were designed in collaboration with 
@@ -39,12 +39,10 @@ In particular, eUtopium's focus is on, but not limited to, 2 main topics of inte
 ======
 
 eUtopium [UPM] Whitepaper: https://www.dropbox.com/s/rrkn7vp2g16tjtn/4%20Proof-of-eUtopiaPoeU-eUtopiumUPM-ASocialEnterpriseofMystery.pdf<br>
-Academic Papers: https://www.dropbox.com/sh/fjiebfw9ltv8l3y/AAA9Xl9qRtwOnU2D3Ks0ygAqa<br>
+Social Media Papers: https://www.dropbox.com/sh/qknwmwh4c3ter75/AAD7dfB0qwY_GueMO4BSh7OKa<br>
 Other papers can be found on Bitcointalk thread.
 
 Read more: https://bitcointalk.org/index.php?topic=702380.0
 
 <a href=www.utopiaco.in>www.utopiaco.in</a><br>
-<a href=https://www.twitter.com/utopium_>@Utopium_</a>
-
--end-
+<a href=https://www.twitter.com/eUtopium>@eUtopium</a>
