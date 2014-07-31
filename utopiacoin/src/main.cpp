@@ -968,7 +968,7 @@ static const int64_t patchBlockRewardDuration = 10080; // 10080 blocks main net 
 // miner's coin base reward
 int64_t GetProofOfWorkReward(int64_t nFees)
 {
-    int64_t nSubsidy = 1 * COIN;
+    int64_t nSubsidy = 0.0000001 * COIN;
         if(pindexBest->nHeight == 2)
         {
             nSubsidy = 200000 * COIN;
